@@ -4,6 +4,7 @@
 
 * Certification info: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals
 * Exam AZ-900 info: https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+* Azure Fundamentals Learning Path: https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
 * Book: https://amzn.com/0135732182
 * Additional resources:
   * https://medium.com/weareservian/azure-az-900-exam-preparation-guide-how-to-pass-in-3-days-dabf5534507a
