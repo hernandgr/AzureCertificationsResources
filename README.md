@@ -9,6 +9,7 @@
 * Additional resources:
   * https://medium.com/weareservian/azure-az-900-exam-preparation-guide-how-to-pass-in-3-days-dabf5534507a
   * https://vladtalkstech.com/az-900-study-guide-microsoft-azure-fundamentals
+  * Pluralsight course: https://www.pluralsight.com/paths/microsoft-ignite-2019-azure-fundamentals
   
 ## Microsoft Certified: Azure Developer Associate
 
