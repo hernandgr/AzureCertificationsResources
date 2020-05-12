@@ -10,7 +10,7 @@
   * https://medium.com/weareservian/azure-az-900-exam-preparation-guide-how-to-pass-in-3-days-dabf5534507a
   * https://vladtalkstech.com/az-900-study-guide-microsoft-azure-fundamentals
   * Pluralsight course: https://www.pluralsight.com/paths/microsoft-ignite-2019-azure-fundamentals
- * Key topics:
+* Key topics:
   * Cloud models (private, public, hybrid): https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/4-cloud-deployment-models
   * VM availability: https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/availability
   * Azure policies: https://docs.microsoft.com/en-us/azure/governance/policy/overview
