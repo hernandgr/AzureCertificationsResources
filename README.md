@@ -23,7 +23,7 @@
 ## Microsoft Certified: Azure Developer Associate
 
 * Certification info: https://docs.microsoft.com/en-us/learn/certifications/azure-developer
-* Exam AZ-203 info: https://docs.microsoft.com/en-us/learn/certifications/exams/az-203
+* Exam AZ-204 info: https://docs.microsoft.com/en-us/learn/certifications/exams/az-204
 * Book: http://amzn.com/B07YVNL121
 
 ## Microsoft Certified: Azure Solutions Architect Expert
