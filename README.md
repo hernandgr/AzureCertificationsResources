@@ -25,6 +25,7 @@
 * Certification info: https://docs.microsoft.com/en-us/learn/certifications/azure-developer
 * Exam AZ-204 info: https://docs.microsoft.com/en-us/learn/certifications/exams/az-204
 * Book: http://amzn.com/B07YVNL121
+* Pluralsight learning path: https://www.pluralsight.com/paths/developing-solutions-for-microsoft-azure-az-203
 
 ## Microsoft Certified: Azure Solutions Architect Expert
 
