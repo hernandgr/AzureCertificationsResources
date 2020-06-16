@@ -27,6 +27,7 @@
 * Book: http://amzn.com/B07YVNL121
 * Pluralsight learning path: https://www.pluralsight.com/paths/developing-solutions-for-microsoft-azure-az-203
 * Labs: https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure
+* Udemy course: https://www.udemy.com/course/exam-microsoft-azure-dev/
 * Additional info:
   * https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/
   * https://medium.com/@the.green.man/exam-az-203-developing-solutions-for-microsoft-azure-best-resources-on-the-web-in-2020-23c10679b0d2
